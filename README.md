@@ -6,7 +6,7 @@
   
    ## ✉ 내정보
    
-   <a href="https://code-trainee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory Blog-FDB515?style=flat&logo=Tistory&logoColor=000000"/></a>                              [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phb4101@gmail.com)](mailto:phb4101@gmail.com)
+   <a href="https://code-trainee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory Blog-FDB515?style=flat&logo=Tistory&logoColor=000000"/></a>                              [![Gmail Badge](https://img.shields.io/badge/phb4101@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phb4101@gmail.com)](mailto:phb4101@gmail.com)
   
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=pakyoong)](https://github.com/ryo-ma/github-profile-trophy)
