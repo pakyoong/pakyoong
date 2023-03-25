@@ -2,6 +2,14 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Pakyoong's%20%20GitHub&fontSize=65&fontColor=000000)
   
+   
+  
+   ## ✉ 내정보
+   
+   <a href="https://code-trainee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory Blog-FDB515?style=flat&logo=Tistory&logoColor=000000"/></a>
+  
+  
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=pakyoong)](https://github.com/ryo-ma/github-profile-trophy)
   
   
