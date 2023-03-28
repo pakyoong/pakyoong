@@ -6,8 +6,15 @@
   
    ## ✉ 내정보
    
-   <a href="https://code-trainee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory Blog-F7DF1E?style=flat&logo=Tistory&logoColor=000000"/></a>                              [![Gmail Badge](https://img.shields.io/badge/phb4101@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phb4101@gmail.com)](mailto:phb4101@gmail.com)
-                             [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=phb4101)](https://solved.ac/phb4101)
+   
+                             
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=phb4101)](https://solved.ac/phb4101)
+<a href="https://code-trainee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tstory Blog-F7DF1E?style=flat&logo=Tistory&logoColor=000000"/></a>
+[![Gmail Badge](https://img.shields.io/badge/phb4101@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phb4101@gmail.com)](mailto:phb4101@gmail.com)
+  [![Naver Mail Badge](https://img.shields.io/badge/bhb4101@naver.com-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:bhb4101@naver.com)](mailto:bhb4101@naver.com)
+
+
+                
   
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=pakyoong)](https://github.com/ryo-ma/github-profile-trophy)
